@@ -18,12 +18,6 @@ Free Grand Exchange profit tracker with live margins, session stats, and optiona
    - Generate an API key
    - Paste it into RuneLite Settings → GE Margin → API Key
 
-## Building
-
-```bash
-./gradlew build
-```
-
 ## License
 
 BSD 2-Clause. See [LICENSE](LICENSE).
